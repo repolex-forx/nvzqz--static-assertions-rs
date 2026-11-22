@@ -1,0 +1,11 @@
+{
+  "org": "nvzqz",
+  "repo": "static-assertions-rs",
+  "versions": [
+    {
+      "commit": "18bc65a094d890fe1faa5d3ccb70f12b89eabf56",
+      "tag": "v1.1.0",
+      "parsed_at": "2026-11-22T05:59:45.481723+00:00"
+    }
+  ]
+}
